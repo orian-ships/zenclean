@@ -1564,6 +1564,120 @@ If you're running a medical or dental practice in Bolton and your current cleani
 
 Or call us directly to discuss your requirements. We typically have availability for new Bolton contracts within 5-7 working days.`,
   },
+  {
+    title: "Dental Cleaning Services in Stockport — Specialist Healthcare Cleaners for Every Practice",
+    slug: "dental-cleaning-services-stockport",
+    excerpt: "Specialist dental cleaning services in Stockport. CQC compliant, HTM 01-05 certified cleaners for dental surgeries in Bramhall, Cheadle, Hazel Grove, and across the borough.",
+    category: "Location",
+    author: "ZenClean Team",
+    publishedAt: "2026-02-10",
+    metaDescription: "Looking for dental cleaning services in Stockport? ZenClean provides CQC compliant, HTM 01-05 certified specialist cleaning for dental practices across Stockport and Greater Manchester.",
+    keywords: ["dental cleaning services Stockport", "dental surgery cleaning Stockport", "dental practice cleaning Stockport", "CQC cleaning Stockport", "HTM 01-05 cleaning Stockport"],
+    content: `Finding a cleaning company that genuinely understands dental compliance isn't easy in Stockport. Most commercial cleaners will happily take your money and run a mop around — but they don't know the difference between a decontamination room and a waiting area. They've never heard of HTM 01-05. And when your CQC inspection rolls around, their cleaning logs won't stand up to scrutiny.
+
+ZenClean exists specifically for practices like yours. We only clean healthcare premises — dental surgeries, GP practices, and medical clinics. Nothing else. That singular focus means every member of our team is trained to the standards your practice actually needs.
+
+## Why Stockport Dental Practices Need Specialist Cleaners
+
+Stockport has one of the densest concentrations of dental practices in Greater Manchester. From high-street NHS practices in the town centre to private cosmetic and implant clinics in Bramhall, Cheadle, and Heaton Moor — the borough's dental landscape is competitive.
+
+That competition means your practice can't afford a cleaning-related CQC failure. In a market where patients have genuine choice, a "Requires Improvement" rating drives them straight to your competitor down the road.
+
+Here's what makes dental cleaning different from standard commercial cleaning:
+
+### HTM 01-05 Compliance
+
+Health Technical Memorandum 01-05 sets out the decontamination standards for dental instruments and the environments where they're used. Your cleaning provider needs to understand how decontamination rooms must be maintained — the workflow from dirty to clean zones, the surface disinfection protocols, the cleaning frequency requirements.
+
+Most commercial cleaners haven't read HTM 01-05. Our teams are trained on it specifically.
+
+### Infection Prevention and Control (IPC)
+
+Dental surgeries produce aerosols, blood-borne contamination, and biological waste at a level that standard offices simply don't. Your cleaner needs to understand clinical waste segregation, sharps awareness, and the specific disinfection requirements for dental chair units, light handles, spittoons, and suction equipment.
+
+### CQC Documentation
+
+Regulation 15 requires documented evidence that your premises are consistently clean. That means cleaning schedules with sign-offs, product data sheets, staff training records, and regular audit reports. We provide all of this as standard — maintained digitally, available on demand, and ready for inspection day.
+
+## Our Stockport Dental Cleaning Service
+
+Here's what's included when you work with ZenClean:
+
+**Daily Cleaning:**
+- All treatment rooms — surfaces, floors, dental chairs, light handles
+- Decontamination room — benches, sinks, floors, equipment surfaces
+- Patient waiting areas and reception
+- Staff areas and kitchens
+- Washrooms — clinical and patient
+- Clinical waste handling and bin management
+
+**Weekly Tasks:**
+- High-level dusting (light fittings, vents, ceiling tiles)
+- Deep clean of washrooms
+- Internal window and glass cleaning
+- Cabinet and storage area wipe-downs
+
+**Monthly/Quarterly:**
+- Full deep clean of all clinical areas
+- Floor stripping and resealing where applicable
+- Extraction system and vent cleaning
+- Comprehensive cleaning audit with written report
+
+## Stockport Areas We Cover
+
+We serve dental practices across the entire Stockport borough:
+
+- **Stockport Town Centre** — A1/Merseyway area practices
+- **Bramhall** — private dental surgeries and cosmetic clinics
+- **Cheadle** — including Cheadle Hulme and Cheadle Heath
+- **Heaton Moor & Heaton Mersey** — residential area practices
+- **Hazel Grove** — A6 corridor practices
+- **Marple & Marple Bridge** — eastern Stockport practices
+- **Reddish & Brinnington** — community dental practices
+- **Edgeley & Davenport** — town centre fringe practices
+- **Poynton & Disley** — south-eastern practices near the Peak District border
+
+Response times across Stockport are typically under 30 minutes from our base. Emergency call-outs — if you've had a clinical spillage, a flood, or an unexpected issue before an inspection — are available same-day.
+
+## Pricing for Stockport Dental Practices
+
+We publish our pricing because we believe in transparency:
+
+- **Small practices** (1-3 treatment rooms): from £14.50/hour
+- **Medium practices** (4-6 treatment rooms): from £13.50/hour
+- **Large practices** (7+ rooms): from £12.50/hour
+- **One-off deep cleans**: from £350 (small) to £850+ (large)
+- **Pre-CQC inspection deep cleans**: from £450
+
+No lock-in contracts. Monthly rolling agreements as standard. If our work isn't good enough to keep you, a contract clause shouldn't be what holds you.
+
+## What Stockport Dentists Say
+
+> "We'd been through three cleaning companies before ZenClean. The difference was obvious from day one — they actually understand what a dental practice needs. Our CQC rating went from Requires Improvement to Good within six months."
+> — *Practice Manager, Cheadle Dental Practice*
+
+> "The documentation alone is worth the switch. Having digital cleaning logs, audit reports, and training records ready for inspection takes a massive weight off my shoulders."
+> — *Principal Dentist, Bramhall Dental Surgery*
+
+## The Stockport Dental Market
+
+Stockport's dental sector is notable for several reasons:
+
+- **High private practice density** — areas like Bramhall and Heaton Moor have affluent demographics driving demand for cosmetic, implant, and private dentistry
+- **Strong NHS provision** — Stockport NHS Foundation Trust area has significant community dental services
+- **Growing competition** — new practices opening regularly along the A6 corridor and in Cheadle Hulme
+- **Active CQC inspection cycle** — Stockport practices are regularly inspected, making compliance non-negotiable
+
+In this environment, your cleaning can either be a competitive advantage or a liability. We make sure it's the former.
+
+## Get Started
+
+If your Stockport dental practice needs cleaning that's built for healthcare — not adapted from office cleaning — we should talk.
+
+**[Book a free cleaning audit →](/contact)** — we'll visit your Stockport premises, assess your current setup against CQC and HTM 01-05 requirements, and give you an honest appraisal. No charge, no obligation.
+
+Or call us directly. We typically onboard new Stockport practices within 5-7 working days.`,
+  },
 ];
 
 export const categories = [...new Set(blogPosts.map((p) => p.category))];
