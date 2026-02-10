@@ -20,7 +20,8 @@ export default function Contact() {
     e.preventDefault();
     setStatus("sending");
     try {
-      const res = await fetch("/api/leads", {
+      const convexUrl = process.env.NEXT_PUBLIC_CONVEX_SITE_URL || "";
+      const res = await fetch(`${convexUrl}/api/leads`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ ...form, source: "form" }),
