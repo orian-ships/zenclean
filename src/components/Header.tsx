@@ -9,6 +9,7 @@ const nav = [
     { label: "Surgical Cleaning", href: "/services/surgical-cleaning" },
   ]},
   { label: "Pricing", href: "/pricing" },
+  { label: "Areas", href: "/areas" },
   { label: "About", href: "/about" },
   { label: "Blog", href: "/blog" },
   { label: "Contact", href: "/contact" },

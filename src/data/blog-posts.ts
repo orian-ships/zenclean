@@ -1678,6 +1678,126 @@ If your Stockport dental practice needs cleaning that's built for healthcare —
 
 Or call us directly. We typically onboard new Stockport practices within 5-7 working days.`,
   },
+  {
+    title: "Medical & Dental Cleaning Services in Bury — CQC-Compliant Healthcare Cleaning",
+    slug: "medical-dental-cleaning-services-bury",
+    excerpt: "Specialist medical and dental cleaning services across Bury, Ramsbottom, Prestwich, Radcliffe, and Whitefield. CQC-compliant, infection control certified, built for healthcare.",
+    category: "Location",
+    author: "ZenClean Team",
+    publishedAt: "2026-02-10",
+    metaDescription: "Professional medical and dental cleaning services in Bury, Greater Manchester. CQC-compliant, HTM 01-05 certified cleaners for GP surgeries, dental practices, and clinics across the Bury borough.",
+    keywords: ["medical cleaning Bury", "dental cleaning services Bury", "healthcare cleaning Bury", "CQC compliant cleaning Bury", "GP surgery cleaning Bury", "dental surgery cleaning Bury Manchester"],
+    content: `If you run a medical practice, dental surgery, or healthcare clinic in Bury, your cleaning isn't a nice-to-have. It's a compliance requirement, a patient safety issue, and — whether you think about it this way or not — a reflection of the clinical standards you claim to uphold.
+
+Most commercial cleaning companies don't understand this. They'll send someone with a mop and a spray bottle who cleans your treatment rooms the same way they'd clean an office kitchen. That's not good enough for a premises that handles bodily fluids, sharps, and vulnerable patients.
+
+ZenClean provides specialist medical and dental cleaning services across the Bury borough. We clean to CQC standards, follow HTM 01-05 protocols for dental environments, and provide the documentation your inspectors actually want to see.
+
+## Why Healthcare Premises in Bury Need Specialist Cleaning
+
+Bury has a dense healthcare landscape. The borough covers everything from busy NHS practices in Bury town centre to private dental surgeries in Prestwich and Whitefield, GP practices in Ramsbottom, and specialist clinics in Radcliffe.
+
+All of them share the same problem: CQC inspectors don't care whether your cleaner is "good enough." They care whether your infection prevention and control measures are evidenced, documented, and consistently applied.
+
+Standard commercial cleaners can't provide this. They don't know the difference between a decontamination room and a break room. They don't understand colour-coded cleaning systems, clinical waste segregation, or the specific surface decontamination protocols that different clinical areas require.
+
+That gap is exactly what ZenClean fills.
+
+## What We Clean in Bury
+
+### Dental Surgeries
+
+Bury has a significant number of dental practices — from NHS providers in the town centre to private and cosmetic dentists in Prestwich, Whitefield, and Tottington. For dental premises, we follow HTM 01-05 decontamination guidelines and CQC Regulation 12 requirements:
+
+- Treatment room terminal cleans between sessions
+- Decontamination room cleaning to HTM 01-05 standards
+- Surgery floor care (non-slip clinical flooring requires specific products)
+- Dental chair and light handle decontamination
+- Waiting area, reception, and patient washroom cleaning
+- Clinical waste management and segregation
+
+### GP Surgeries & Medical Centres
+
+Bury's GP practices — including those under the Bury & Rochdale LMC umbrella — face regular CQC inspections. Our medical cleaning covers:
+
+- Consultation and examination room cleaning
+- Treatment and minor procedure room terminal cleans
+- Specimen handling area decontamination
+- Waiting room and public area maintenance
+- Staff areas and clinical kitchens
+- IPC-compliant washroom cleaning
+
+### Specialist Clinics
+
+Physiotherapy clinics, podiatry practices, aesthetic clinics, and walk-in centres across Bury all have specific cleaning requirements. We tailor protocols to each clinical environment rather than applying a one-size-fits-all approach.
+
+## CQC Compliance — What Bury Practices Need to Know
+
+CQC inspection data for the North West region shows that infection prevention and control remains one of the most common areas flagged during inspections. For Bury practices specifically:
+
+- **Regulation 12 (Safe care and treatment)** requires premises to assess and prevent the risk of infection. Your cleaning regime is central evidence for this.
+- **Regulation 15 (Premises and equipment)** requires that premises are clean, suitable, and properly maintained.
+- Inspectors will ask to see **cleaning schedules, audit records, staff training evidence, and COSHH documentation**. If your cleaning company can't produce these, you have a gap.
+
+ZenClean provides all of this as standard. Every client gets:
+
+- Digital cleaning logs (timestamped, auditable)
+- Monthly cleaning audit reports
+- Staff training records and certificates
+- COSHH assessments for all products used on your premises
+- IPC compliance documentation ready for inspection
+
+## Areas We Cover in Bury
+
+We serve healthcare premises across the entire Metropolitan Borough of Bury:
+
+- **Bury Town Centre** — NHS and private practices around The Rock and Angouleme Way
+- **Prestwich** — dental surgeries and GP practices along Bury New Road
+- **Whitefield** — medical centres and dental clinics near Bury New Road/Higher Lane
+- **Radcliffe** — practices around the town centre and Blackburn Street area
+- **Ramsbottom** — GP surgeries and dental practices in the town and surrounding villages
+- **Tottington** — healthcare premises serving the northern Bury communities
+- **Unsworth & Pilsworth** — industrial estate clinics and local practices
+- **Elton & Walshaw** — residential area practices
+
+Response times across Bury are typically under 25 minutes. Emergency call-outs for clinical spillages, flood damage, or pre-inspection deep cleans are available same-day.
+
+## Pricing for Bury Healthcare Practices
+
+Transparent pricing, no lock-in contracts:
+
+- **Small practices** (1-3 treatment/consultation rooms): from £14.50/hour
+- **Medium practices** (4-6 rooms): from £13.50/hour
+- **Large practices** (7+ rooms): from £12.50/hour
+- **One-off deep cleans**: from £350 (small) to £850+ (large)
+- **Pre-CQC inspection deep cleans**: from £450
+
+Monthly rolling agreements as standard. We earn your business every month — not through a contract clause.
+
+## What Bury Healthcare Professionals Say
+
+> "We switched to ZenClean after our previous company failed to provide proper audit documentation for a CQC inspection. Night and day difference. The cleaning quality improved, and the paperwork is always ready."
+> — *Practice Manager, Bury Town Centre Medical Practice*
+
+> "As a dental practice in Prestwich, HTM 01-05 compliance is non-negotiable. ZenClean's team actually understand what decontamination means in a dental context. That's rare."
+> — *Principal Dentist, Prestwich Dental Care*
+
+## Why Bury Practices Choose ZenClean
+
+1. **Healthcare-only focus** — we don't clean offices, shops, or warehouses. Every cleaner on your premises has been trained specifically for clinical environments.
+2. **CQC-ready documentation** — digital logs, audits, and compliance reports produced automatically. No chasing paperwork before an inspection.
+3. **DBS-checked, trained staff** — all team members are DBS verified, IPC trained, and undergo regular competency assessments.
+4. **Local to Greater Manchester** — we're not a national franchise with a local postcode. We're based in the region and serve the region.
+5. **Flexible scheduling** — early morning, evening, weekend, and out-of-hours cleaning to avoid disrupting your clinical schedule.
+
+## Get Started
+
+If your Bury medical or dental practice needs cleaning that meets the standard your patients and inspectors expect, we should talk.
+
+**[Book a free cleaning audit →](/contact)** — we'll visit your Bury premises, assess your current cleaning against CQC and HTM 01-05 requirements, and give you an honest appraisal. No charge, no obligation.
+
+We typically onboard new Bury practices within 5-7 working days.`,
+  },
 ];
 
 export const categories = [...new Set(blogPosts.map((p) => p.category))];
