@@ -1443,6 +1443,127 @@ We work with cosmetic and aesthetic clinics across Greater Manchester, providing
 
 **Running a cosmetic clinic in Manchester?** [Book a free cleaning audit](/contact) — we'll review your current cleaning setup against CQC requirements and show you exactly where you stand. No obligation, no sales pitch — just honest expert assessment.`,
   },
+  {
+    title: "Medical Cleaning Services in Bolton — Trusted Specialists for Healthcare Premises",
+    slug: "medical-cleaning-services-bolton",
+    excerpt: "Specialist medical and dental cleaning in Bolton. CQC-compliant, DBS-checked teams serving GP surgeries, dental practices, and clinics across Bolton and surrounding areas.",
+    category: "Local",
+    author: "ZenClean Team",
+    publishedAt: "2026-02-10",
+    metaDescription: "Looking for medical cleaning services in Bolton? ZenClean provides CQC-compliant specialist cleaning for dental practices, GP surgeries, and clinics across Bolton, Greater Manchester.",
+    keywords: ["medical cleaning Bolton", "dental cleaning Bolton", "healthcare cleaning Bolton", "GP surgery cleaning Bolton", "CQC compliant cleaning Bolton", "clinic cleaning Bolton"],
+    content: `Bolton has one of the highest concentrations of healthcare premises in Greater Manchester. From the GP surgeries clustered around the town centre and Farnworth, to the dental practices lining Chorley New Road and Bradshawgate, to private clinics in Lostock and Horwich — the borough's medical infrastructure serves over 280,000 residents.
+
+Every one of these premises needs specialist cleaning that meets CQC standards. Yet most Bolton clinics are still using general commercial cleaners who don't understand the difference between wiping down an office desk and decontaminating a treatment room.
+
+That's the gap ZenClean fills.
+
+## Why Bolton Healthcare Premises Need Specialist Cleaning
+
+The CQC doesn't distinguish between a London teaching hospital and a two-chair dental practice in Farnworth. The infection prevention and control standards are the same. The inspection framework is the same. The consequences of failing are the same.
+
+What differs is access to specialist services. Bolton practices have historically relied on:
+
+- **National cleaning franchises** that send different staff every week and have no healthcare training protocols
+- **Solo self-employed cleaners** who are often reliable but can't provide the documentation CQC inspectors require
+- **In-house cleaning** by reception or nursing staff — which pulls qualified people away from patient care
+
+None of these approaches are sustainable if your goal is consistent CQC compliance. And with the CQC increasing its focus on infection control following the pandemic years, the margin for error has narrowed.
+
+## What CQC Inspectors Look for in Bolton Clinics
+
+When a CQC inspector visits a Bolton practice, they assess cleanliness under the **Safe** and **Well-Led** domains. Specifically, they're checking:
+
+- **Cleaning schedules** — documented, signed off daily, covering every room and surface
+- **Product compliance** — hospital-grade disinfectants with appropriate BS EN certifications (14476 for virucidal, 16615 for surface disinfection)
+- **Staff training records** — evidence that cleaning staff hold current IPC training certificates
+- **Colour-coded equipment** — the NHS colour-coding system (red for sanitary, blue for general, green for kitchen, yellow for clinical) properly implemented
+- **Waste segregation** — clinical waste, offensive waste, and domestic waste correctly separated with appropriate containers and signage
+- **Audit trails** — evidence of periodic cleaning audits, ideally monthly, with corrective actions documented
+
+A practice that can produce all of this on inspection day demonstrates **proactive infection control management**. One that can't is flagged immediately.
+
+## Bolton Areas We Serve
+
+ZenClean provides specialist medical cleaning across all Bolton postcodes and surrounding areas:
+
+- **Bolton Town Centre** (BL1) — GP surgeries, dental practices, walk-in centres
+- **Farnworth & Kearsley** (BL4) — medical centres, community clinics
+- **Horwich & Lostock** (BL6) — private practices, physiotherapy clinics
+- **Westhoughton** (BL5) — dental surgeries, GP practices
+- **Bromley Cross & Bradshaw** (BL7) — dental clinics, specialist practices
+- **Little Lever & Radcliffe borders** (BL3) — medical centres
+- **Turton & Edgworth** (BL7) — rural practices requiring reliable service
+- **Astley Bridge & Smithills** (BL1/BL6) — residential area clinics
+
+We're based in Greater Manchester, which means response times for Bolton are fast — typically same-day for urgent callouts, and we can start regular contracts within a week of signing.
+
+## Our Bolton Cleaning Service Includes
+
+### Daily Contracted Cleaning
+
+- Treatment and consultation room cleaning to clinical standards
+- Waiting area and reception deep clean
+- Sanitary facilities (patient and staff)
+- Kitchen and break room areas
+- Floor care (appropriate to surface type — many Bolton premises have older vinyl flooring that requires specific treatment)
+- Touch-point sanitisation — door handles, light switches, chair arms, reception counters
+
+### Specialist Periodic Cleaning
+
+- **Deep cleans** — quarterly or as needed, covering areas daily cleaning doesn't reach (ceiling tiles, behind fixed furniture, extraction vents)
+- **Decontamination room cleaning** — for dental practices, this is the most scrutinised area in any CQC visit
+- **Post-refurbishment cleaning** — several Bolton practices are currently updating premises; construction dust and clinical environments don't mix
+- **Fogging and whole-room disinfection** — when a standard clean isn't sufficient (e.g., after a confirmed infection incident)
+
+### Documentation and Compliance Support
+
+- Daily cleaning logs (signed, timestamped)
+- Monthly cleaning audit reports
+- Staff training certificates (IPC, COSHH, safeguarding)
+- DBS clearance documentation for all staff
+- Product safety data sheets
+- Risk assessments specific to your premises
+
+## The Bolton Healthcare Landscape
+
+Bolton's healthcare infrastructure includes:
+
+- **55+ GP practices** registered with the Bolton CCG (now part of Greater Manchester ICB)
+- **40+ dental practices** ranging from NHS community dentists to private cosmetic practices
+- **Multiple private clinics** — dermatology, physiotherapy, cosmetic, podiatry
+- **Community health centres** including Breightmet Health Centre and Waters Meeting Health Centre
+- **Royal Bolton Hospital** (NHS) — while we focus on primary care, the standards cascade down
+
+The Bolton health economy is large enough to support specialist services but small enough that word travels fast. A poor CQC rating in Bolton is noticed by every practice manager in the borough within days.
+
+## Pricing for Bolton Practices
+
+Our pricing is transparent and published:
+
+- **Small practices** (1-3 treatment rooms): from £14.50/hour
+- **Medium practices** (4-6 treatment rooms): from £13.50/hour
+- **Large practices** (7+ rooms): from £12.50/hour
+- **Deep cleans**: from £350 (small) to £850+ (large)
+
+No lock-in contracts. Monthly rolling agreements as standard. We believe the quality of our work should keep you with us — not a contract clause.
+
+## Why Bolton Clinics Choose ZenClean
+
+- **Healthcare-only focus** — we don't clean offices, shops, or warehouses. Every member of our team is trained exclusively for medical environments
+- **Local presence** — we're a Greater Manchester company, not a national franchise. Your account manager is 20 minutes away, not in a call centre
+- **CQC-ready documentation** — we provide everything you need for inspection day, maintained as standard, not scrambled together at the last minute
+- **Consistent teams** — the same trained cleaners attend your practice every time. They know your layout, your protocols, and your preferences
+- **Flexible scheduling** — early morning, evening, weekend, or between-session turnarounds. Bolton practices with non-standard hours are no problem
+
+## Get Started
+
+If you're running a medical or dental practice in Bolton and your current cleaning arrangement isn't giving you full CQC confidence, we should talk.
+
+**[Book a free cleaning audit →](/contact)** — we'll visit your Bolton premises, assess your current cleaning setup against CQC requirements, and give you an honest appraisal. No charge, no obligation, no sales pressure.
+
+Or call us directly to discuss your requirements. We typically have availability for new Bolton contracts within 5-7 working days.`,
+  },
 ];
 
 export const categories = [...new Set(blogPosts.map((p) => p.category))];

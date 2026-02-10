@@ -221,6 +221,58 @@ export default function Home() {
         </div>
       </section>
 
+      {/* FAQ */}
+      <section className="section-padding">
+        <div className="container-narrow">
+          <div className="text-center mb-14">
+            <h2 className="font-heading text-3xl sm:text-4xl font-bold text-gray-900 mb-4">
+              Frequently Asked Questions
+            </h2>
+            <p className="text-lg text-gray-600 max-w-2xl mx-auto">
+              Common questions from practice managers and clinic owners across Greater Manchester.
+            </p>
+          </div>
+          <div className="max-w-3xl mx-auto space-y-6">
+            {[
+              {
+                q: "What makes healthcare cleaning different from regular commercial cleaning?",
+                a: "Healthcare cleaning requires hospital-grade disinfectants with specific BS EN certifications, colour-coded equipment following NHS protocols, documented cleaning schedules, trained staff with IPC qualifications, and compliance with CQC standards. A standard office cleaner simply isn't equipped for clinical environments.",
+              },
+              {
+                q: "Are your staff DBS checked?",
+                a: "Yes — every member of our cleaning team holds an enhanced DBS check. This is non-negotiable for anyone working in healthcare premises where patient data and medications are present.",
+              },
+              {
+                q: "How quickly can you start a new contract?",
+                a: "Typically within 5-7 working days of signing. We conduct a site visit first to understand your premises, then assign a dedicated team and build a cleaning schedule tailored to your practice hours.",
+              },
+              {
+                q: "Do you provide the cleaning documentation CQC inspectors ask for?",
+                a: "Yes — as standard, not as an add-on. You'll receive daily signed cleaning logs, monthly audit reports, staff training certificates, COSHH data sheets, and risk assessments. Everything an inspector expects to see.",
+              },
+              {
+                q: "Can you clean outside normal practice hours?",
+                a: "Absolutely. Most of our clients prefer early morning or evening cleaning so there's zero disruption to patient appointments. We also offer between-session turnarounds for busy practices.",
+              },
+              {
+                q: "Do you lock us into long contracts?",
+                a: "No. We operate on monthly rolling agreements. We believe the quality of our work should keep you with us — not a contract clause. You can cancel with 30 days' notice at any time.",
+              },
+            ].map((faq) => (
+              <details key={faq.q} className="group bg-white border border-gray-200 rounded-xl">
+                <summary className="flex items-center justify-between p-6 cursor-pointer font-heading font-semibold text-gray-900 hover:text-teal-700 transition-colors">
+                  {faq.q}
+                  <span className="ml-4 text-teal-600 group-open:rotate-45 transition-transform text-xl">+</span>
+                </summary>
+                <div className="px-6 pb-6 text-gray-600 leading-relaxed">
+                  {faq.a}
+                </div>
+              </details>
+            ))}
+          </div>
+        </div>
+      </section>
+
       {/* CTA */}
       <section className="bg-teal-700 text-white section-padding">
         <div className="container-narrow text-center">
