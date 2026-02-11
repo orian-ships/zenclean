@@ -1798,6 +1798,101 @@ If your Bury medical or dental practice needs cleaning that meets the standard y
 
 We typically onboard new Bury practices within 5-7 working days.`,
   },
+  {
+    title: "Medical Cleaning Services in Rochdale — Specialist Healthcare Cleaning Across the Borough",
+    slug: "medical-cleaning-services-rochdale",
+    excerpt: "Professional medical and dental cleaning services across Rochdale, Middleton, Heywood, Littleborough, and Milnrow. CQC-compliant, infection control certified, built for healthcare premises.",
+    category: "Location",
+    author: "ZenClean Team",
+    publishedAt: "2026-02-11",
+    metaDescription: "Specialist medical cleaning services in Rochdale, Greater Manchester. CQC-compliant, HTM 01-05 certified cleaners for GP surgeries, dental practices, clinics, and healthcare premises across the Rochdale borough.",
+    keywords: ["medical cleaning Rochdale", "dental cleaning services Rochdale", "healthcare cleaning Rochdale", "CQC compliant cleaning Rochdale", "GP surgery cleaning Rochdale", "clinic cleaning Rochdale Manchester"],
+    content: `Healthcare cleaning in Rochdale isn't something you can hand to a general commercial cleaner and hope for the best. Your premises handle clinical waste, bodily fluids, and vulnerable patients. The cleaning has to match the clinical environment — not the budget of a standard office contract.
+
+ZenClean provides specialist medical and dental cleaning services across the Rochdale borough. We work to CQC standards, follow HTM 01-05 protocols for dental environments, and deliver the documentation and audit trails your inspectors expect to see.
+
+## Why Rochdale Healthcare Premises Need Specialist Cleaning
+
+Rochdale borough covers a broad healthcare landscape — from NHS GP practices in Rochdale town centre and Middleton, to dental surgeries in Heywood, private clinics in Littleborough, and specialist practices in Milnrow and Castleton.
+
+Every one of these premises shares the same regulatory reality: CQC doesn't accept "clean enough." They require evidenced, documented, and consistently applied infection prevention and control measures. Standard commercial cleaners don't understand this distinction. They'll clean your treatment room the same way they clean a café — and that puts your CQC rating at risk.
+
+ZenClean exists to close that gap. We understand the difference between a decontamination room and a staff kitchen. We know what colour-coded cleaning means in practice, not just in theory. And we provide the audit documentation that surveyors actually look for.
+
+## What We Clean Across Rochdale
+
+### Dental Surgeries
+
+Rochdale has a mix of NHS and private dental providers — from high street practices in the town centre to established surgeries in Middleton and Heywood. For dental premises, we follow HTM 01-05 decontamination guidelines and CQC Regulation 12 requirements:
+
+- Treatment room terminal cleans between sessions
+- Decontamination room cleaning to HTM 01-05 standards
+- Waiting area and reception maintenance
+- Clinical waste segregation and disposal support
+- Surface decontamination using approved antimicrobial products
+
+### GP Surgeries and Medical Centres
+
+Rochdale's GP surgeries — whether single-practice sites or larger health centres — need cleaning that accounts for clinical consultation rooms, treatment areas, phlebotomy rooms, and high-traffic waiting areas. We clean to NHS National Standards of Healthcare Cleanliness and provide:
+
+- Consultation room and treatment area deep cleaning
+- Waiting room infection control cleaning
+- Sharps and clinical waste area management
+- Touch-point sanitisation protocols
+- Documented cleaning schedules for CQC evidence
+
+### Private and Specialist Clinics
+
+From physiotherapy practices and aesthetic clinics to mental health services and community healthcare providers, Rochdale has a growing private healthcare sector. Each has different cleaning needs, but all share CQC compliance obligations. We tailor cleaning schedules to match your clinical activity and regulatory requirements.
+
+## Areas We Cover in Rochdale Borough
+
+We serve healthcare premises across the entire Rochdale borough:
+
+- **Rochdale town centre** — NHS and private practices in the town's healthcare hub
+- **Middleton** — dental surgeries, GP practices, and community clinics
+- **Heywood** — established medical and dental providers
+- **Littleborough** — private practices and specialist clinics
+- **Milnrow and Castleton** — GP surgeries and dental practices
+- **Wardle and Smithy Bridge** — rural and semi-rural healthcare premises
+
+## What Sets ZenClean Apart
+
+### 1. CQC-Ready Documentation
+
+Every clean is logged. You get timestamped records, cleaning checklists, and product COSHH data sheets — exactly what a CQC surveyor asks for during an inspection. No scrambling for paperwork the night before.
+
+### 2. Trained Healthcare Cleaners
+
+Our cleaning teams are trained specifically for clinical environments. They understand infection control protocols, PPE requirements, clinical waste segregation, and the specific surface decontamination products approved for healthcare use. All staff are DBS-checked.
+
+### 3. HTM 01-05 Compliance
+
+For dental premises, we follow the full HTM 01-05 framework — from decontamination room protocols to treatment room terminal cleans. We know what dental inspectors look for because we've cleaned practices through successful CQC inspections.
+
+### 4. Flexible Scheduling
+
+Healthcare premises can't shut down for cleaning during clinical hours. We offer early morning, evening, weekend, and out-of-hours cleaning so your practice runs uninterrupted. We work around your clinical schedule, not the other way around.
+
+### 5. Local to Greater Manchester
+
+We're based in the region and serve the region. When you need an emergency clean or a schedule adjustment, you're talking to someone local — not a call centre.
+
+## How It Works
+
+1. **Free cleaning audit** — we visit your Rochdale premises, assess your current cleaning against CQC and HTM 01-05 requirements, and identify gaps.
+2. **Tailored cleaning plan** — we build a schedule around your clinical activity, compliance needs, and budget.
+3. **Onboarding** — typically 5-7 working days from agreement to first clean.
+4. **Ongoing compliance** — regular audits, documentation updates, and responsive communication.
+
+## Get Started
+
+If your Rochdale medical or dental practice needs cleaning that meets the standard your patients and inspectors expect, we should talk.
+
+**[Book a free cleaning audit →](/contact)** — no charge, no obligation. We'll give you an honest assessment of where your current cleaning stands and what it would take to bring it up to compliance standard.
+
+We typically onboard new Rochdale practices within 5-7 working days.`,
+  },
 ];
 
 export const categories = [...new Set(blogPosts.map((p) => p.category))];

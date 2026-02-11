@@ -4,12 +4,12 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Areas We Serve — Healthcare Cleaning Across Greater Manchester | ZenClean",
   description:
-    "ZenClean provides specialist medical and dental cleaning services across Greater Manchester — Bolton, Stockport, Bury, Manchester city centre, and surrounding areas.",
+    "ZenClean provides specialist medical and dental cleaning services across Greater Manchester — Bolton, Stockport, Bury, Rochdale, Manchester city centre, and surrounding areas.",
   keywords: [
     "healthcare cleaning Greater Manchester",
     "medical cleaning Manchester",
     "dental cleaning Manchester areas",
-    "CQC cleaning Bolton Stockport Bury",
+    "CQC cleaning Bolton Stockport Bury Rochdale",
   ],
 };
 
@@ -54,7 +54,7 @@ const areas = [
     name: "Rochdale",
     description:
       "Healthcare cleaning services for Rochdale, Middleton, Heywood, and Littleborough practices.",
-    blogSlug: null,
+    blogSlug: "medical-cleaning-services-rochdale",
   },
   {
     name: "Tameside",
