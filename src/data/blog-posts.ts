@@ -1992,4 +1992,190 @@ We typically onboard new Oldham practices within 5-7 working days.`,
   },
 ];
 
+  {
+    title: "How to Prepare for a CQC Cleaning Inspection — Checklist Included",
+    slug: "cqc-cleaning-inspection-preparation-checklist",
+    excerpt: "A practical step-by-step guide to preparing your medical or dental practice for a CQC cleaning inspection, with a downloadable checklist covering every area inspectors assess.",
+    category: "Compliance",
+    author: "ZenClean Team",
+    publishedAt: "2026-02-11",
+    metaDescription: "How to prepare for a CQC cleaning inspection. Step-by-step checklist for medical and dental practices covering IPC, documentation, and common fail points.",
+    keywords: ["CQC inspection cleaning checklist", "how to pass CQC inspection cleaning", "CQC cleaning audit preparation", "what to expect CQC cleaning inspection", "CQC inspection preparation dental practice"],
+    content: `CQC inspections aren't announced in advance. When the inspector walks through your door, your cleaning standards need to speak for themselves — no last-minute scramble, no excuses.
+
+The good news: if your cleaning is genuinely consistent, inspections aren't stressful. The bad news: most practices have gaps they don't know about until an inspector finds them.
+
+This guide walks through exactly what CQC inspectors look at when assessing cleaning and infection control, and gives you a practical checklist to audit yourself before they do.
+
+## What CQC Inspectors Actually Assess
+
+CQC inspectors evaluate your practice under the "Safe" key question. Within that, infection prevention and control (IPC) — including cleaning — is a core component. They're looking at three things:
+
+- **Visual cleanliness** — Are surfaces, floors, equipment and clinical areas visibly clean?
+- **Systems and processes** — Do you have documented cleaning schedules, protocols, and audit trails?
+- **Staff awareness** — Can your team explain the cleaning procedures and their rationale?
+
+Inspectors aren't just looking at whether the floor is mopped. They're assessing whether you have a functioning system that produces consistent results.
+
+## The 8 Areas Inspectors Focus On
+
+### 1. Clinical Treatment Rooms
+
+The highest-scrutiny area. Inspectors check:
+
+- Work surfaces wiped between patients with appropriate disinfectant
+- Dental chairs, couches and clinical equipment visibly clean
+- No dust on high surfaces, light fittings, or equipment housings
+- Clinical waste bins not overflowing, foot-operated, and lined correctly
+- Sharps containers not overfilled (never above the fill line)
+- Hand hygiene facilities stocked — soap, paper towels, alcohol gel
+
+### 2. Decontamination Areas
+
+For dental practices, this is critical. HTM 01-05 compliance means:
+
+- Clear dirty-to-clean workflow with no cross-contamination risk
+- Ultrasonic bath cleaned and maintained with documented records
+- Washer-disinfector and autoclave validation logs up to date
+- Work surfaces clean and uncluttered
+- Separate hand-washing sink (not used for instrument processing)
+
+### 3. Waiting Areas and Reception
+
+First impressions matter. Inspectors notice:
+
+- Chairs and surfaces free from stains, tears, and dust
+- Floors clean with no visible debris
+- Toys and magazines either cleanable or removed entirely
+- Hand sanitiser available at entrance
+- Toilet facilities clean with soap, towels, and clinical waste disposal
+
+### 4. Storage Areas
+
+Inspectors often check where you keep supplies:
+
+- Clean supplies stored separately from waste and chemicals
+- No items stored on the floor
+- COSHH cupboard locked, with data sheets accessible
+- PPE stock adequate and in date
+
+### 5. Staff Areas
+
+Don't assume they won't look. They do:
+
+- Kitchen or break area clean and separated from clinical areas
+- No clinical waste or contaminated items in non-clinical areas
+- Fridge clean if medication is stored
+
+### 6. Cleaning Equipment Storage
+
+Your cleaning cupboard tells a story:
+
+- Colour-coded mops, cloths, and buckets (NHS colour-coding system)
+- Equipment clean and stored correctly — mop heads not left in dirty water
+- Single-use cloths disposed of after each use
+- Cleaning products in date and COSHH-compliant
+
+### 7. Documentation and Records
+
+The paper trail is as important as the clean itself:
+
+- Signed cleaning schedules showing daily, weekly, and periodic tasks completed
+- IPC audit records (at least quarterly)
+- Staff training records for cleaning and IPC
+- Cleaning product data sheets accessible
+- Evidence of cleaning contractor oversight (if outsourced)
+
+### 8. Waste Management
+
+Clinical waste handling is non-negotiable:
+
+- Correct waste stream segregation (orange bags, yellow bags, sharps)
+- Waste not stored in patient or clinical areas beyond the working day
+- Waste collection records maintained
+- Staff trained in waste categorisation
+
+## Your CQC Cleaning Inspection Checklist
+
+Use this checklist monthly. If every item is ticked, you're inspection-ready.
+
+### Daily Checks
+- All clinical surfaces wiped with approved disinfectant between patients
+- Floors mopped in clinical areas at end of each session
+- Clinical waste bins emptied before overflowing
+- Hand hygiene supplies fully stocked at every point of care
+- Waiting area surfaces wiped, floors clear of debris
+- Toilets checked and cleaned at least twice daily
+- Signed cleaning schedule completed and initialled
+
+### Weekly Checks
+- High-touch surfaces deep cleaned (door handles, light switches, handrails)
+- Clinical equipment housing wiped and dust-free
+- Decontamination area deep cleaned
+- COSHH cupboard checked — products in date, data sheets present
+- Cleaning equipment inspected — mop heads replaced, buckets clean
+- Waste storage area clean and organised
+
+### Monthly Checks
+- Full IPC walk-through of every room
+- Cleaning schedule audit — check for gaps or missed entries
+- Staff training records reviewed — anyone due refresher training?
+- High surfaces cleaned (top of cupboards, light fittings, vents)
+- Carpet or upholstery cleaning scheduled if applicable
+- Review and update cleaning protocols if any changes in guidance
+
+### Quarterly Checks
+- Formal IPC audit documented and filed
+- Cleaning product review — are you using the right products for the right tasks?
+- Cleaning specification reviewed if using a contractor
+- Action plan from any previous audit findings reviewed and closed out
+
+## Common Fail Points (and How to Avoid Them)
+
+**The gap between schedule and reality.** Cleaning schedules exist but aren't consistently signed. Inspectors spot unsigned or half-complete schedules immediately. Fix: make signing the schedule as routine as locking up.
+
+**High surfaces and hidden areas.** Dust on top of cabinets, behind equipment, or on ceiling vents is a classic find. Fix: add high-surface cleaning to your weekly rota.
+
+**Colour-coding not followed.** Mops and cloths exist, but they're used interchangeably. Fix: train every cleaner on the NHS colour-coding system and audit compliance.
+
+**Decontamination room clutter.** Instruments, paperwork, and supplies piled up. Fix: clear policy that nothing non-essential enters the decontamination area.
+
+**No evidence of staff training.** Staff may be well-trained, but if there's no record, it doesn't count. Fix: log all IPC and cleaning training with dates, topics, and attendee signatures.
+
+**Waste stream errors.** Domestic waste mixed with clinical waste, or sharps bins overfilled. Fix: regular waste segregation training and daily bin checks.
+
+## What Happens If You're Not Ready?
+
+If inspectors find significant cleaning or IPC issues, the consequences escalate quickly:
+
+- **Requirement notices** — formal demands to fix specific issues within a deadline
+- **Warning notices** — for serious risks to patient safety
+- **Rating downgrade** — "Requires Improvement" or "Inadequate" on your public CQC report
+- **Conditions on registration** — restrictions on what services you can provide
+- **Enforcement action** — in extreme cases, suspension or cancellation of registration
+
+The reputational damage alone is significant. Your CQC rating is public. Patients, referrers, and commissioners all check it.
+
+## How ZenClean Keeps You Inspection-Ready
+
+We don't just clean. We build the system that keeps you compliant:
+
+- **Signed cleaning schedules** completed every session, ready for inspector review
+- **Colour-coded equipment** and single-use cloths — no cross-contamination risk
+- **Monthly IPC walk-throughs** included in every contract
+- **Staff trained to BICSc standards** with documented training records
+- **Quarterly audit reports** you can present directly to inspectors
+
+Our Manchester practices don't worry about CQC cleaning anymore. That's the point.
+
+## Get Started
+
+If you want cleaning that makes CQC inspections a non-event rather than a crisis, talk to us.
+
+**[Book a free cleaning audit →](/contact)** — we'll walk your practice, identify gaps, and show you exactly where you stand. No charge, no obligation.
+
+Most practices are inspection-ready within two weeks of onboarding with ZenClean.`,
+  },
+];
+
 export const categories = [...new Set(blogPosts.map((p) => p.category))];
