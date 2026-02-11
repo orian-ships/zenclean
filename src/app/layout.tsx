@@ -80,6 +80,18 @@ export default function RootLayout({
         <Header />
         <main>{children}</main>
         <Footer />
+        {/* Sticky mobile CTA */}
+        <div className="fixed bottom-0 inset-x-0 z-50 sm:hidden bg-teal-700 border-t border-teal-600 px-4 py-3 flex items-center justify-between gap-3 shadow-[0_-4px_12px_rgba(0,0,0,0.15)]">
+          <div className="text-white text-sm font-medium leading-tight">
+            Free cleaning audit<br />
+            <span className="text-teal-200 text-xs">No obligation • 24hr response</span>
+          </div>
+          <a href="/contact" className="shrink-0 bg-white text-teal-800 font-bold text-sm px-5 py-2.5 rounded-lg hover:bg-teal-50 transition-colors">
+            Get Quote →
+          </a>
+        </div>
+        {/* Spacer for sticky CTA on mobile */}
+        <div className="h-16 sm:hidden" />
       </body>
     </html>
   );

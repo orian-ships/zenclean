@@ -48,7 +48,7 @@ const areas = [
     name: "Oldham",
     description:
       "Medical and dental cleaning for practices in Oldham, Royton, Shaw, Failsworth, and Uppermill.",
-    blogSlug: null,
+    blogSlug: "medical-dental-cleaning-services-oldham",
   },
   {
     name: "Rochdale",

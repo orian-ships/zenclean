@@ -1893,6 +1893,103 @@ If your Rochdale medical or dental practice needs cleaning that meets the standa
 
 We typically onboard new Rochdale practices within 5-7 working days.`,
   },
+  },
+  {
+    title: "Medical & Dental Cleaning Services in Oldham — CQC-Compliant Healthcare Cleaning",
+    slug: "medical-dental-cleaning-services-oldham",
+    excerpt: "Specialist medical and dental cleaning across Oldham, Royton, Shaw, Failsworth, Uppermill, and Chadderton. CQC-compliant, infection control certified, built for healthcare premises.",
+    category: "Location",
+    author: "ZenClean Team",
+    publishedAt: "2026-02-11",
+    metaDescription: "Professional medical and dental cleaning services in Oldham, Greater Manchester. CQC-compliant, HTM 01-05 certified cleaners for GP surgeries, dental practices, and clinics across the Oldham borough.",
+    keywords: ["medical cleaning Oldham", "dental cleaning services Oldham", "healthcare cleaning Oldham", "CQC compliant cleaning Oldham", "GP surgery cleaning Oldham", "clinic cleaning Oldham Manchester"],
+    content: `Your Oldham healthcare practice operates under the same CQC scrutiny as every other clinical premise in the country. The difference is who's holding the mop. A general commercial cleaner doesn't know the difference between a decontamination room and a break room — and that gap shows up at inspection.
+
+ZenClean provides specialist medical and dental cleaning services across the Oldham borough. We clean to CQC standards, follow HTM 01-05 protocols for dental environments, and deliver the audit documentation your inspectors want to see.
+
+## Why Oldham Healthcare Premises Need Specialist Cleaning
+
+Oldham borough has a diverse healthcare landscape. From busy NHS GP practices and dental surgeries in Oldham town centre to private clinics in Royton, community health facilities in Shaw, and specialist practices in Failsworth and Chadderton. Every one of these premises faces the same regulatory requirement: demonstrable, documented infection prevention and control.
+
+Standard commercial cleaners don't understand clinical cleaning. They'll use the wrong products, skip the audit trail, and treat your treatment room like a standard office. That's how CQC ratings slip from Good to Requires Improvement.
+
+ZenClean closes that gap. We understand colour-coded cleaning systems in practice, not just in theory. We know what decontamination room separation means and why it matters. And we provide the signed, timestamped documentation that surveyors specifically ask for.
+
+## What We Clean Across Oldham
+
+### Dental Surgeries
+
+Oldham has a strong mix of NHS and private dental providers — from established practices in the town centre to surgeries in Royton, Shaw, and Failsworth. For dental premises, we follow HTM 01-05 decontamination guidelines and CQC Regulation 12 requirements:
+
+- Treatment room terminal cleans between sessions
+- Decontamination room cleaning to HTM 01-05 dirty-to-clean workflow standards
+- Waiting area and reception daily cleaning and sanitisation
+- Clinical waste segregation and disposal support
+- Surface decontamination with approved antimicrobial products
+
+### GP Surgeries and Medical Centres
+
+Oldham's GP surgeries — from single-practice sites to the larger health centres serving multiple patient lists — need cleaning that accounts for consultation rooms, treatment areas, phlebotomy rooms, and high-traffic waiting areas. We clean to NHS National Standards of Healthcare Cleanliness:
+
+- Consultation room and treatment area deep cleaning
+- Waiting room infection control cleaning
+- Sharps and clinical waste area management
+- Touch-point sanitisation throughout the day
+- Documented cleaning schedules for CQC evidence folders
+
+### Private and Specialist Clinics
+
+Oldham's private healthcare sector continues to grow — physiotherapy practices, podiatry clinics, aesthetic and cosmetic clinics, mental health services, and community healthcare providers. Each has different cleaning requirements, but all share CQC compliance obligations. We tailor cleaning schedules to your clinical activity and regulatory needs.
+
+## Areas We Cover in Oldham Borough
+
+We serve healthcare premises across the entire Oldham borough:
+
+- **Oldham town centre** — NHS practices, dental surgeries, and private clinics in the main healthcare hub
+- **Royton** — dental practices and GP surgeries serving the local community
+- **Shaw and Crompton** — medical centres and dental providers
+- **Failsworth** — healthcare premises along the Oldham Road corridor and surrounding areas
+- **Chadderton** — GP practices, dental surgeries, and specialist clinics
+- **Uppermill and Saddleworth** — rural and semi-rural practices serving the eastern villages
+- **Lees and Springhead** — community healthcare providers
+
+## What Sets ZenClean Apart
+
+### 1. CQC-Ready Documentation
+
+Every clean is logged. You get timestamped records, cleaning checklists, and product COSHH data sheets — exactly what CQC surveyors ask for during inspection. No last-minute scrambling for paperwork.
+
+### 2. Trained Healthcare Cleaners
+
+Our teams are trained specifically for clinical environments. They understand infection control protocols, PPE requirements, clinical waste segregation, and the specific surface decontamination products approved for healthcare use. All staff are DBS-checked and supervised.
+
+### 3. HTM 01-05 Compliance
+
+For dental premises, we follow the full HTM 01-05 framework — from decontamination room protocols to treatment room terminal cleans. We know what dental inspectors look for because we've cleaned practices through successful CQC inspections.
+
+### 4. Flexible Scheduling
+
+Healthcare premises can't close for cleaning during clinical hours. We offer early morning, evening, weekend, and out-of-hours cleaning so your practice runs without interruption. We work around your schedule.
+
+### 5. Local to Greater Manchester
+
+We're based in the region. When you need an emergency clean, a schedule change, or a quick response, you're talking to someone local — not a distant call centre.
+
+## How It Works
+
+1. **Free cleaning audit** — we visit your Oldham premises, assess your current cleaning against CQC and HTM 01-05 requirements, and identify gaps.
+2. **Tailored cleaning plan** — we build a schedule around your clinical activity, compliance needs, and budget.
+3. **Onboarding** — typically 5-7 working days from agreement to first clean.
+4. **Ongoing compliance** — regular audits, documentation updates, and responsive communication.
+
+## Get Started
+
+If your Oldham medical or dental practice needs cleaning that meets the standard your patients and inspectors expect, we should talk.
+
+**[Book a free cleaning audit →](/contact)** — no charge, no obligation. We'll assess where your current cleaning stands and what it would take to bring it up to full compliance.
+
+We typically onboard new Oldham practices within 5-7 working days.`,
+  },
 ];
 
 export const categories = [...new Set(blogPosts.map((p) => p.category))];
