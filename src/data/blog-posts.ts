@@ -2524,6 +2524,274 @@ Getting COSHH right protects your cleaning staff, your clinical team, your patie
 
 **Not sure if your COSHH compliance is up to scratch?** [Book a free cleaning and compliance audit](/contact) with ZenClean — we'll review your COSHH arrangements alongside your general cleaning standards and tell you exactly where you stand. No charge, no obligation.`,
   },
+  {
+    title: "Spring Cleaning for Medical and Dental Practices — A Seasonal Reset Checklist",
+    slug: "spring-cleaning-medical-dental-practices-checklist",
+    excerpt: "Spring is the ideal time to reset your practice's cleaning standards. Use this checklist to tackle overlooked areas before summer and your next CQC inspection.",
+    category: "Guides",
+    author: "ZenClean Team",
+    publishedAt: "2026-02-13",
+    metaDescription: "Spring cleaning checklist for medical and dental practices in Greater Manchester. Tackle overlooked areas, reset standards, and prepare for CQC inspections.",
+    keywords: ["spring cleaning medical practice", "dental practice spring clean", "healthcare cleaning checklist"],
+    content: `Winter is hard on healthcare premises. Months of wet footfall, increased patient volumes during flu season, shorter daylight hours masking build-up in corners — by February, most practices are carrying a cleaning debt they don't fully realise until someone looks closely.
+
+Spring is your opportunity to reset. Not just a deeper-than-usual clean, but a systematic review of every area, every process, and every piece of documentation. Done well, a spring cleaning programme puts your practice in its strongest compliance position for the rest of the year.
+
+Here's a practical checklist built from our experience cleaning medical and dental premises across Greater Manchester.
+
+## Why Seasonal Resets Matter in Healthcare
+
+Daily cleaning maintains standards. Deep cleaning addresses what daily cleaning misses. But neither replaces the value of a full seasonal reset — a structured opportunity to step back and evaluate everything.
+
+Winter creates specific problems:
+
+- **Increased footfall** — flu, colds, and respiratory infections drive higher patient numbers, which means more contamination, more waste, and more wear on surfaces
+- **Wet weather tracking** — mud, salt, and moisture from boots and coats are ground into flooring and tracked into clinical areas
+- **Condensation build-up** — poor ventilation combined with heating creates moisture on window frames, behind radiators, and in ceiling voids
+- **Reduced daylight** — staff working under artificial light don't notice build-up that's obvious in spring sunshine
+- **Heating system dust** — radiators, heating vents, and ductwork accumulate and redistribute dust throughout winter
+
+A spring reset tackles all of these issues systematically, rather than waiting for them to compound into compliance problems.
+
+## The Spring Cleaning Checklist
+
+### Clinical Areas (Treatment Rooms, Surgeries)
+
+These are your highest-risk spaces. Spring is the time to go beyond routine:
+
+- **Walls and ceilings:** Full wipe-down from ceiling to floor. Check for discolouration, mould spots (especially near windows and external walls), and any damage to paintwork or cladding that could harbour bacteria
+- **Behind and beneath equipment:** Pull dental chairs, examination couches, and mobile equipment away from walls. Clean the floor and wall surfaces behind them — this is where months of dust and debris accumulate unnoticed
+- **Air vents and extraction:** Remove vent covers and clean thoroughly. Check that extraction systems are drawing correctly — reduced airflow means reduced aerosol clearance
+- **Light fittings:** Remove diffusers and clean inside and out. Dust on light fittings reduces light output and falls onto clinical surfaces
+- **Window frames and seals:** Check for condensation damage, mould growth, and deteriorated seals. Clean thoroughly and flag any maintenance issues
+- **Flooring edges and joints:** Scrub skirting board junctions, floor seams, and any areas where the floor meets fixed cabinetry. These are biofilm hotspots
+- **Clinical furniture upholstery:** Inspect for cracks, tears, or wear in vinyl coverings. Damaged upholstery cannot be effectively decontaminated and must be replaced — flag these for your facilities team
+- **Ceiling tiles:** Check for staining (which indicates leaks), sagging, or damage. Replace any compromised tiles
+
+### Decontamination Room (Dental Practices)
+
+The decon room deserves special attention during a spring reset:
+
+- **Full strip-down clean:** Every surface, every shelf, every piece of equipment — cleaned and disinfected from scratch
+- **Workflow assessment:** While the room is stripped, review whether your clean/dirty zone separation is still effective. Has equipment crept across boundaries? Have storage habits changed?
+- **Sealant inspection:** Check floor-to-wall junctions, worktop seals, and splashback joints. Deteriorated sealant creates harbourage points that daily cleaning cannot address
+- **Drainage:** Clean and inspect floor drains if present. Biofilm builds up in drains over winter and can produce odours and contamination risks
+- **Equipment exteriors:** Washer-disinfectors, autoclaves, ultrasonic baths — clean all exterior surfaces, including the backs and undersides that daily cleaning skips
+
+### Waiting Room and Reception
+
+Patients form their first impression of your practice here. After winter, these areas often need more attention than you'd expect:
+
+- **Soft furnishings:** Deep clean all upholstered seating. Fabric absorbs body oils, sweat, and airborne particles throughout winter. Consider professional extraction cleaning
+- **Carpet and hard flooring:** Full deep clean — extraction for carpets, machine scrub for hard floors. Pay attention to entrance matting, which takes the worst of winter's wet weather
+- **Magazines and display items:** Remove and discard any tatty, outdated materials. Clean display racks and shelving
+- **Children's play area:** If applicable, deep clean all toys, books, and play surfaces. Replace anything that can't be effectively cleaned
+- **Window cleaning:** Inside and out. After months of reduced daylight, clean windows make a noticeable difference to the feel of your waiting area
+- **Signage and noticeboards:** Clean frames and surfaces. Update any outdated information — health campaigns, contact details, opening hours
+
+### Washrooms
+
+Washrooms are always scrutinised during CQC inspections. A spring reset should include:
+
+- **Grouting and tile joints:** Scrub all grout lines and check for deterioration. Discoloured or crumbling grout harbours bacteria and looks poor during inspections
+- **Sanitary ware:** Deep clean all sinks, toilets, and urinals, including the undersides and fixings that routine cleaning doesn't always reach
+- **Dispensers:** Clean all soap, towel, and sanitiser dispensers inside and out. Check mechanisms are working correctly
+- **Extraction fans:** Clean fan covers and check that fans are drawing effectively. Poor extraction leads to moisture build-up and mould
+- **Plumbing checks:** Run all taps (including any rarely used outlets) for at least two minutes to flush standing water. This is also a Legionella control measure
+
+### Staff Areas
+
+CQC inspectors check staff areas too. Don't neglect them:
+
+- **Kitchen/break room:** Full deep clean including inside appliances (fridge, microwave, toaster). Check food storage hygiene
+- **Changing areas:** Clean lockers inside and out. Check that clinical and personal clothing storage is appropriately separated
+- **Storage rooms:** Organise and clean. Remove expired stock, damaged items, and anything that shouldn't be there. Cluttered storage rooms are an inspection red flag
+
+### External Areas
+
+First impressions start in the car park:
+
+- **Entrance areas:** Sweep, jet wash if needed, clear any moss or algae that's built up over winter
+- **Waste storage:** Clean the external waste storage area. Check that clinical and general waste streams are properly separated and secured
+- **Signage:** Clean external signs. Check that practice name, opening hours, and emergency contact information are correct and legible
+- **Guttering and drainage:** Not strictly a cleaning task, but blocked gutters cause damp problems that affect internal cleanliness. Flag any issues
+
+## Documentation Reset
+
+Spring is also the ideal time to audit your cleaning paperwork:
+
+- **Cleaning schedules:** Review and update. Have any areas changed use? Have you added or removed equipment? Your cleaning schedule should reflect your premises as they are now, not as they were when the schedule was written
+- **Cleaning protocols:** Review product selections. Are you still using the most effective products? Have any been discontinued or reformulated? Update protocols accordingly
+- **Training records:** Check that all cleaning staff training is current. Schedule refresher training for anyone overdue
+- **COSHH file:** Update safety data sheets for all current products. Remove sheets for products you no longer use
+- **Audit records:** Review the last 12 months of cleaning audits. Identify any recurring issues and address root causes
+
+## Timing Your Spring Reset
+
+For Greater Manchester practices, we recommend scheduling your spring reset between mid-February and the end of March. This timing:
+
+- **Catches winter's accumulation** before it becomes entrenched
+- **Precedes the Easter holiday period** when many practices have reduced hours — ideal for access
+- **Gives you a clean baseline** before spring and summer, when longer daylight hours make cleanliness more visible to patients
+- **Positions you well for CQC inspections** — many occur in the April–June window after the financial year turns
+
+Most spring resets can be completed in a single extended session (evening or weekend) for smaller practices, or over two to three sessions for larger multi-surgery premises.
+
+## The Cost of Not Doing It
+
+Skipping a seasonal reset saves a few hundred pounds in the short term. But the compounding effect of winter's build-up creates problems that are more expensive to fix later:
+
+- **Surface degradation** — dirt left in porous surfaces causes permanent discolouration
+- **Mould establishment** — condensation-related mould that's easy to clean in February becomes an established colony by June
+- **Equipment damage** — dust in air vents reduces equipment lifespan and efficiency
+- **Failed inspections** — CQC inspectors visiting in spring will see what winter left behind
+
+A spring cleaning programme typically costs £400–£900 for a standard dental or medical practice — a fraction of the cost of remedial work, equipment replacement, or the reputational impact of a poor CQC rating.
+
+## Let ZenClean Handle Your Spring Reset
+
+Our spring cleaning programme is designed specifically for healthcare premises. We work through every area systematically, combine the physical clean with a documentation review, and deliver a detailed report of what we've done and any maintenance issues we've identified.
+
+For practices already on a ZenClean contract, spring resets are included in your annual programme. For new clients, it's the perfect time to start — we'll get your premises into peak condition and keep them there.
+
+**Ready to book your spring reset?** [Get in touch](/contact) — we're scheduling March and April slots now across Greater Manchester.`,
+  },
+  {
+    title: "Medical & Dental Cleaning Services in Wigan — Specialist Healthcare Cleaning You Can Trust",
+    slug: "medical-dental-cleaning-services-wigan",
+    excerpt: "Looking for specialist medical or dental cleaning in Wigan? ZenClean provides CQC-compliant healthcare cleaning across the borough.",
+    category: "Local",
+    author: "ZenClean Team",
+    publishedAt: "2026-02-14",
+    metaDescription: "Specialist medical and dental cleaning services in Wigan. CQC-compliant healthcare cleaning for GP surgeries, dental practices, and clinics across the borough.",
+    keywords: ["medical cleaning Wigan", "dental cleaning Wigan", "healthcare cleaning services Wigan"],
+    content: `Wigan might not grab headlines like Manchester city centre, but its healthcare sector is substantial. The borough is home to around 50 GP surgeries, 40 dental practices, and a growing number of private clinics — from physiotherapy centres in Standish to aesthetic clinics along the A49 corridor. Every one of them needs cleaning that meets CQC standards.
+
+The challenge? Most cleaning companies operating in Wigan are generalists. They clean offices by day and pubs by night. Healthcare is an afterthought on their service page, not a specialism they've invested in.
+
+That gap is exactly why ZenClean exists. We provide specialist medical and dental cleaning across Wigan and the wider Greater Manchester region — with the training, products, and documentation that CQC inspectors actually want to see.
+
+## Why Wigan Healthcare Premises Need Specialist Cleaning
+
+Wigan's healthcare landscape has its own characteristics that affect cleaning requirements:
+
+### An Ageing Building Stock
+
+Many of Wigan's GP surgeries and dental practices operate from converted buildings — Victorian terraces in the town centre, 1960s-era purpose-built clinics in Leigh, and adapted commercial units in Ashton-in-Makerfield. Older premises present specific cleaning challenges:
+
+- **Textured surfaces** that trap dirt and resist standard cleaning methods
+- **Poor ventilation** in buildings not designed for clinical use, leading to moisture and mould risks
+- **Worn flooring** with damaged joints and seams that harbour bacteria
+- **Limited storage** forcing cleaning products and clinical supplies into shared spaces
+
+These buildings can absolutely meet CQC standards — but only with cleaning teams who understand how to manage the challenges that older premises present.
+
+### Growing Private Healthcare Sector
+
+Wigan has seen a steady increase in private clinics over the past five years. Aesthetic treatments, private physiotherapy, podiatry, and specialist diagnostics are all expanding. These newer practices often occupy modern premises with better infrastructure — but their owners frequently underestimate the cleaning requirements that come with CQC registration.
+
+A brand-new clinic with poor cleaning is just as likely to fail a CQC inspection as an old one with poor cleaning. The standards don't adjust for how nice your fit-out looks.
+
+### High Patient Volumes
+
+Wigan's NHS services carry significant patient loads. Many GP surgeries serve large registered populations, and dental practices often operate at full capacity. High footfall means more contamination, faster surface degradation, and a greater need for systematic, documented cleaning.
+
+## What ZenClean Provides in Wigan
+
+Our Wigan service covers every type of healthcare premises in the borough:
+
+### GP Surgery Cleaning
+
+GP surgeries require daily cleaning that goes well beyond what a commercial cleaner provides:
+
+- **Treatment room decontamination** — surfaces, examination couches, and equipment wiped with healthcare-grade disinfectants after the final patient
+- **Waiting area deep clean** — chairs, touch-points, children's areas, and flooring cleaned and sanitised daily
+- **Washroom sanitisation** — full clean, restock, and disinfection
+- **Touch-point focus** — door handles, light switches, reception counters, handrails, and self-check-in screens
+- **Clinical waste management** — correct handling of waste bins (not removal — that's your waste contractor)
+- **Documented cleaning log** — completed after every visit, ready for CQC inspection
+
+### Dental Practice Cleaning
+
+Dental surgeries demand the highest level of specialist cleaning knowledge:
+
+- **HTM 01-05 compliant decontamination room cleaning** — strict clean/dirty zone separation, correct products, documented protocols
+- **Surgery cleaning** — clinical surfaces, dental chair decontamination, bracket table cleaning, suction unit exteriors
+- **Aerosol contamination management** — post-session cleaning of surfaces within the contamination zone
+- **Colour-coded equipment** — dedicated cleaning tools for each zone, never cross-contaminated
+- **Deep cleaning programme** — quarterly for surgeries, monthly for decon rooms
+
+### Private Clinic Cleaning
+
+Whether you're running an aesthetics clinic in Standish or a physiotherapy practice in Hindley, we tailor our cleaning to your specific clinical requirements:
+
+- **Treatment room protocols** matched to your procedures and contamination risks
+- **Product selection** appropriate for your specific surfaces and equipment
+- **Flexible scheduling** around your clinic hours — early mornings, evenings, or weekends
+- **CQC documentation** that demonstrates systematic, compliant cleaning
+
+## Areas We Cover Across the Borough
+
+We provide healthcare cleaning services throughout Wigan borough, including:
+
+- **Wigan town centre** — GP surgeries and dental practices in and around the town centre, Millgate, and Market Street
+- **Leigh** — growing healthcare hub with multiple dental practices and GP surgeries serving the eastern side of the borough
+- **Ashton-in-Makerfield** — established healthcare provision along the A49 corridor
+- **Standish** — private practices and NHS facilities in this affluent northern area
+- **Hindley and Hindley Green** — community-based practices needing reliable specialist cleaning
+- **Tyldesley and Atherton** — dental and medical practices serving these busy commuter towns
+- **Ince, Platt Bridge, and Abram** — local practices with community roots and CQC obligations
+- **Orrell, Billinge, and Shevington** — suburban practices in the western reaches of the borough
+
+Our teams are based in Greater Manchester, so response times across the borough are fast. We're not travelling from the other side of the country — we know the area, we know the roads, and we're already cleaning other healthcare premises nearby.
+
+## What Makes ZenClean Different From Local Cleaning Companies
+
+Wigan has plenty of cleaning companies. What they don't have is plenty of healthcare cleaning specialists. Here's what sets us apart:
+
+### Healthcare-Only Focus
+
+We don't clean offices, shops, or pubs. Every client is a healthcare premises. Every protocol, every product, every training module is designed for clinical environments. This focus means our teams understand your world — they don't need to be told what a decon room is or why colour coding matters.
+
+### Trained, DBS-Checked Staff
+
+Every ZenClean team member receives healthcare-specific training before entering any premises. This includes infection control principles, NHS colour-coded cleaning systems, HTM 01-05 for dental practices, COSHH awareness, and clinical waste handling. All staff hold enhanced DBS clearance.
+
+### CQC-Ready Documentation
+
+After every cleaning visit, we generate a documented cleaning log recording what was cleaned, by whom, with which products, and any issues noted. These logs are your evidence file for CQC inspections — and they're included as standard, not an optional extra.
+
+### Consistent Teams
+
+We assign dedicated teams to each practice. You'll see the same faces each visit — people who know your premises, understand your preferences, and maintain consistent standards. No agency temps, no strangers with a key to your building.
+
+### Transparent, Fair Pricing
+
+Our pricing reflects the genuine cost of specialist healthcare cleaning — trained staff, healthcare-grade products, DBS checks, insurance, documentation, and quality auditing. We don't undercut on price because we don't cut corners on service.
+
+## Compliance Support Beyond Cleaning
+
+Cleaning is the core of what we do, but we also support your wider compliance:
+
+- **Pre-inspection preparation** — if you know a CQC visit is coming, we'll conduct an additional audit and deep clean to ensure your premises are at their best
+- **Cleaning protocol development** — if you don't have written cleaning protocols, we'll create them for your specific premises
+- **Staff training support** — we can provide infection control awareness sessions for your non-cleaning staff
+- **Issue reporting** — if our teams spot maintenance issues that affect cleanliness (damaged flooring, failed sealant, leaking pipes), we report them immediately
+
+## Getting Started
+
+Moving to a specialist healthcare cleaner is straightforward:
+
+1. **Free site visit** — we visit your premises, assess your requirements, and understand your specific challenges
+2. **Tailored proposal** — we provide a detailed quote covering daily cleaning, deep cleaning, and any additional services
+3. **Smooth transition** — we coordinate the changeover to minimise disruption, including key handover, alarm code setup, and team introduction
+4. **First clean and baseline** — our first visit establishes a baseline, with a detailed report on the condition of your premises
+5. **Ongoing service** — regular cleaning, documented logs, and periodic quality audits to maintain standards
+
+Most practices are fully transitioned within two weeks of accepting our proposal.
+
+**Ready to upgrade your cleaning?** [Book a free site visit](/contact) — we'll assess your Wigan premises and show you exactly what specialist healthcare cleaning looks like. No obligation, no pressure — just a straightforward conversation about keeping your practice compliant and your patients safe.`,
+  },
 ];
 
 export const categories = [...new Set(blogPosts.map((p) => p.category))];
