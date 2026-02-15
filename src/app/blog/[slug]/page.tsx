@@ -2,6 +2,8 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import { blogPosts } from "@/data/blog-posts";
 import { notFound } from "next/navigation";
+import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
 
 type Props = { params: Promise<{ slug: string }> };
 
@@ -31,33 +33,6 @@ export default async function BlogPost({ params }: Props) {
   const { slug } = await params;
   const post = blogPosts.find((p) => p.slug === slug);
   if (!post) notFound();
-
-  // Simple markdown-like rendering for the content
-  const renderContent = (content: string) => {
-    return content.split("\n\n").map((block, i) => {
-      if (block.startsWith("## ")) {
-        return <h2 key={i}>{block.replace("## ", "")}</h2>;
-      }
-      if (block.startsWith("### ")) {
-        return <h3 key={i}>{block.replace("### ", "")}</h3>;
-      }
-      if (block.startsWith("- ")) {
-        const items = block.split("\n").filter((l) => l.startsWith("- "));
-        return (
-          <ul key={i}>
-            {items.map((item, j) => (
-              <li key={j}>{item.replace("- ", "").replace(/\*\*(.*?)\*\*/g, "$1")}</li>
-            ))}
-          </ul>
-        );
-      }
-      // Handle inline bold and links
-      const html = block
-        .replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>")
-        .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>');
-      return <p key={i} dangerouslySetInnerHTML={{ __html: html }} />;
-    });
-  };
 
   const relatedPosts = blogPosts.filter((p) => p.slug !== slug && p.category === post.category).slice(0, 3);
 
@@ -96,8 +71,8 @@ export default async function BlogPost({ params }: Props) {
       </section>
 
       <article className="section-padding">
-        <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 prose">
-          {renderContent(post.content)}
+        <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 prose prose-lg max-w-none prose-headings:font-heading prose-a:text-teal-700 prose-strong:text-gray-900">
+          <ReactMarkdown remarkPlugins={[remarkGfm]}>{post.content}</ReactMarkdown>
         </div>
       </article>
 
